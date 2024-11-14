@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>150</height>
+    <width>500</width>
+    <height>200</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,8 +19,8 @@
      <widget class="QLineEdit" name="le_c">
       <property name="minimumSize">
        <size>
-        <width>60</width>
-        <height>30</height>
+        <width>52</width>
+        <height>42</height>
        </size>
       </property>
      </widget>
@@ -39,8 +39,8 @@
      <widget class="QLineEdit" name="le_d">
       <property name="minimumSize">
        <size>
-        <width>60</width>
-        <height>30</height>
+        <width>52</width>
+        <height>42</height>
        </size>
       </property>
      </widget>
@@ -59,8 +59,8 @@
      <widget class="QLineEdit" name="le_result">
       <property name="minimumSize">
        <size>
-        <width>60</width>
-        <height>30</height>
+        <width>52</width>
+        <height>42</height>
        </size>
       </property>
       <property name="readOnly">
